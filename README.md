@@ -5,5 +5,6 @@
 🤔 I’m looking for help with: Entering cybersecurity and building mindful AI.  
 💬 Ask me about: AI/ML, design thinking, books, or wild project ideas.  
 📫 How to reach me: https://www.linkedin.com/in/siddhi-arora-82b575304/
+
 😄 Pronouns: she/her  
 ⚡ Fun fact: I’m into AI, design, and now... hacking (the ethical kind).
