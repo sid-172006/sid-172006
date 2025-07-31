@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,I'm Siddhi Arora👋
 
 🔭 I’m currently working on: AI/ML projects that blend logic with creativity and human-centered design.  
 🌱 I’m currently learning: ML, design thinking, and exploring ethical cybersecurity.  
