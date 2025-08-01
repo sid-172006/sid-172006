@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Siddhi Arora</h1>
 <h3 align="center">Learning fast .Breaking better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-172006&label=Profile%20views&color=0e75b6&style=flat" alt="sid-172006" /> </p>
 
-- 🔭 I’m currently working on **AI/ML projects that blend logic with creativity and human-centered design.**
+- 🔭 I’m currently working on **AI/ML,DL,CYS,WEB DEV**
 
 - 🌱 I’m currently learning **AI/ML,DL,CYS,Web Dev**
 
@@ -17,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://x.com/_siddhi17_?s=21](https://x.com/_siddhi17_?s=21)
 
-- 💬 Ask me about **AI/ML, design thinking, books, or wild project ideas**
+- 💬 Ask me about **AI&ML**
 
 - 📫 How to reach me **sid.arora1701@gmail.com**
 
@@ -29,6 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/@_siddhi17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_siddhi17_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhi arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhi arora" height="30" width="40" /></a>
+<a href="https://instagram.com/_.siddhi17._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.siddhi17._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid-172006&show_icons=true&locale=en" alt="sid-172006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid-172006&" alt="sid-172006" /></p>
-
