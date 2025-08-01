@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Siddhi Arora</h1>
-<h3 align="center">Learning fast .Breaking better.</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=F7B536&center=true&vCenter=true&width=435&lines=Hi+%2CI+am+Siddhi+Arora;AI%26ML+Enthusiast;Creator%2C+BookDive+and+Mentor" alt="Typing SVG" />
+</a> </p>
+<h3 align="center">Learning fast , Breaking better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-172006&label=Profile%20views&color=0e75b6&style=flat" alt="sid-172006" /> </p>
 
@@ -23,12 +25,6 @@
 
 - ⚡ Fun fact **I’m into AI, design, and now... hacking (the ethical kind).**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_siddhi17_" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhi arora" height="30" width="40" /></a>
-
-</p>
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@_siddhi17_" target="blank">
